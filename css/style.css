@@ -8,12 +8,13 @@
 
 html {
     font-family: 'Hubballi', cursive;
+    background-color:rgba(238, 179, 171, 0.89) ;
 }
 
 .container {
     height: 300px;
     width: 300px;
-    border: 1px solid rgb(132, 96, 165);
+    border: 1px solid rgb(61, 15, 15);
     border-radius: 5px;
     margin: 10rem auto;
     text-align: center;
@@ -32,17 +33,17 @@ html {
     width: 5rem;
     padding: 0.3rem;
     color: aliceblue;
-    background-color:rgb(148, 69, 79) ;
+    background-color:rgb(95, 33, 42) ;
 }
 
 .container h3 {
     margin: 2rem;
-    color: aliceblue;
+    color: rgb(243, 201, 196);
     text-transform: capitalize;
 }
 
 .container p {
-    color: aliceblue;
+    color: rgb(243, 201, 196);
     font-size: 1.5rem;
     text-transform: capitalize;
 }
